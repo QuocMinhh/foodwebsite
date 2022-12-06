@@ -1,0 +1,85 @@
+.container {
+    margin: 2%;
+    background-image: url("https://thumbs.dreamstime.com/b/greek-food-background-traditional-different-greek-dishes-set-greek-food-background-traditional-different-greek-dishes-set-top-view-178761927.jpg");
+}
+
+body {
+    background-color: rgb(240, 231, 221);
+}
+
+header {
+    border: 1px solid black;
+    text-align: center;
+}
+
+nav {
+    background-image: url("https://media.gettyimages.com/photos/cooking-and-seasoning-ingredients-frame-copy-space-picture-id1256153484?s=612x612");
+    border: 1px solid black;
+    width: 30%;
+    height: auto;
+    margin-top: 20px;
+    float: left;
+}
+
+main {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/004/275/701/small/fast-food-seamless-background-illustration-simple-restaurant-menu-background-vector.jpg");
+    border: 1px solid black;
+    width: 69%;
+    height: auto;
+    margin-top: 20px;
+    float: right;
+}
+
+td,
+tr,
+th {
+    border: 1px solid black;
+}
+
+table {
+    background-color: rgb(231, 201, 152);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+tr,
+td {
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+table {
+    margin: 3%;
+}
+
+nav ul a {
+    font-size: 17px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.add {
+    margin-top: 20px;
+    text-align: end;
+    margin-right: 30px;
+}
+
+.add input {
+    width: 200px;
+    height: 40px;
+}
+
+input {
+    width: 100px;
+    height: 40px;
+}
+
+.img {
+    width: 100px;
+    height: 40px;
+}
